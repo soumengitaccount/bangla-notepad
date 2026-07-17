@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Phonetic IME Studio",
+  "description": "Interactive phonetic Bangla typing engine simulator, rules editor, and desktop OS-level hook exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
